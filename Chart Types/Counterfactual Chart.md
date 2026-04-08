@@ -5,6 +5,36 @@ aliases:
   - Avoided Impact Chart
   - With-Without Chart
   - Scenario Delta Chart
+chart_type: counterfactual-chart
+category: specialized
+data_types:
+  - time-series
+  - continuous
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Energy Markets
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - policymaker
+  - media
+  - executive
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - flourish
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/specialized
   - data-type/time-series
@@ -16,9 +46,6 @@ tags:
   - theme/climate
   - theme/energy-markets
   - theme/finance
-category: Specialized
-complexity: intermediate
-best_audience: policymakers, analysts, advocates, journalists
 ---
 
 # Counterfactual Chart

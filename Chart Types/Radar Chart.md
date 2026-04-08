@@ -4,6 +4,32 @@ aliases:
   - Spider Chart
   - Web Chart
   - Star Chart
+chart_type: radar-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+data_contexts:
+  - ESG & Sustainable Finance
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - executive
+  - technical
+visual_styles:
+  - corporate
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - chartjs
+  - echarts
+  - recharts
+  - plotly
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/multivariate
@@ -18,9 +44,6 @@ tags:
   - theme/renewable-energy
   - theme/finance
   - theme/cop-unfccc
-category: Comparison
-complexity: intermediate
-best_audience: analyst, executive, policymaker
 ---
 
 # Radar Chart

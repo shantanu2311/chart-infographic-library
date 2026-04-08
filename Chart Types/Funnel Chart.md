@@ -3,6 +3,34 @@ title: Funnel Chart
 aliases:
   - Pipeline Chart
   - Conversion Funnel
+chart_type: funnel-chart
+category: flow
+data_types:
+  - categorical
+  - sequential
+  - continuous
+data_contexts:
+  - Carbon Markets
+  - Public Finance & MDBs
+  - Climate Tech & Cleantech Startups
+complexity: medium
+audience:
+  - executive
+  - technical
+visual_styles:
+  - corporate
+  - dashboard
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - highcharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/flow
   - data-type/sequential
@@ -17,9 +45,6 @@ tags:
   - theme/carbon-markets
   - theme/renewable-energy
   - theme/public-finance
-category: Flow
-complexity: intermediate
-best_audience: executives, analysts, policymakers, project managers
 ---
 
 # Funnel Chart

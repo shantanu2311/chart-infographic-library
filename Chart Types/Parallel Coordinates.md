@@ -2,6 +2,31 @@
 title: Parallel Coordinates
 aliases:
   - Parallel Axes Chart
+chart_type: parallel-coordinates
+category: relationship
+data_types:
+  - continuous
+  - categorical
+data_contexts:
+  - Renewable Energy & Transition
+  - ESG & Sustainable Finance
+  - Climate & Emissions
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/multivariate
@@ -16,9 +41,6 @@ tags:
   - theme/esg
   - theme/supply-chain
   - theme/finance
-category: Relationship
-complexity: advanced
-best_audience: analysts, researchers, data scientists
 ---
 
 # Parallel Coordinates

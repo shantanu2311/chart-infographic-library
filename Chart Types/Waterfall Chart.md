@@ -4,6 +4,38 @@ aliases:
   - Bridge Chart
   - Walk Chart
   - Cascade Chart
+chart_type: waterfall-chart
+category: specialized
+data_types:
+  - categorical
+  - continuous
+  - sequential
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Financial Markets
+  - Public Finance & MDBs
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - minimal
+  - editorial
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - highcharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/specialized
   - data-type/quantitative
@@ -19,9 +51,6 @@ tags:
   - theme/renewable-energy
   - theme/net-zero
   - theme/public-finance
-category: Specialized
-complexity: intermediate
-best_audience: executives, analysts, policymakers, finance professionals
 ---
 
 # Waterfall Chart

@@ -3,6 +3,42 @@ title: Area Chart
 aliases:
   - Filled Line Chart
   - Stacked Area Chart
+chart_type: area-chart
+category: temporal
+data_types:
+  - time-series
+  - continuous
+  - categorical
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - minimal
+  - corporate
+  - editorial
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -19,9 +55,6 @@ tags:
   - theme/finance
   - theme/iea
   - theme/net-zero
-category: Temporal
-complexity: intermediate
-best_audience: analysts, policymakers, executives
 ---
 
 # Area Chart

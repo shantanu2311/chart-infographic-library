@@ -5,6 +5,34 @@ aliases:
   - Project Timeline
   - Schedule Chart
   - Bar Schedule
+chart_type: gantt-chart
+category: temporal
+data_types:
+  - time-series
+  - categorical
+  - sequential
+data_contexts:
+  - Public Finance & MDBs
+  - Renewable Energy & Transition
+  - Net Zero Pathways
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - highcharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/duration
@@ -20,9 +48,6 @@ tags:
   - theme/finance
   - theme/net-zero
   - theme/infrastructure
-category: Temporal
-complexity: intermediate
-best_audience: project managers, policymakers, executives, investors
 ---
 
 # Gantt Chart

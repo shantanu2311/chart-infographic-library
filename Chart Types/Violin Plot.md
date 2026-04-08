@@ -3,6 +3,31 @@ title: Violin Plot
 aliases:
   - Violin Chart
   - Density Box Plot
+chart_type: violin-plot
+category: distribution
+data_types:
+  - continuous
+  - categorical
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/continuous-numeric
@@ -16,9 +41,6 @@ tags:
   - theme/carbon-markets
   - theme/climate
   - theme/finance
-category: Distribution
-complexity: advanced
-best_audience: analyst, researcher, data-scientist
 ---
 
 # Violin Plot

@@ -2,6 +2,41 @@
 title: Bar Chart
 aliases:
   - Horizontal Bar Chart
+chart_type: bar-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Climate & Emissions
+  - Public Finance & MDBs
+  - Renewable Energy & Transition
+complexity: simple
+audience:
+  - executive
+  - public
+  - policymaker
+visual_styles:
+  - minimal
+  - corporate
+  - editorial
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -15,9 +50,6 @@ tags:
   - theme/mdb
   - theme/renewable-energy
   - theme/public-finance
-category: Comparison
-complexity: beginner
-best_audience: general, executive, analyst
 ---
 
 # Bar Chart

@@ -4,6 +4,30 @@ aliases:
   - KDE Plot
   - Kernel Density Estimate
   - Density Curve
+chart_type: density-plot
+category: distribution
+data_types:
+  - continuous
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Energy Markets
+complexity: medium
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - editorial
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/continuous-numeric
@@ -17,9 +41,6 @@ tags:
   - theme/climate
   - theme/iea
   - theme/carbon-markets
-category: Distribution
-complexity: intermediate
-best_audience: analyst, researcher, data-scientist
 ---
 
 # Density Plot

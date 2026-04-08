@@ -4,6 +4,43 @@ aliases:
   - Thematic Map
   - Shaded Map
   - Color-coded Map
+chart_type: choropleth-map
+category: spatial
+data_types:
+  - geographic
+  - continuous
+  - categorical
+data_contexts:
+  - Climate & Emissions
+  - Carbon Markets
+  - Renewable Energy & Transition
+  - Net Zero Pathways
+  - COP UNFCCC IEA
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - policymaker
+  - public
+  - media
+  - executive
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+  - corporate
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - highcharts
+  - flourish
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/geospatial
   - data-type/categorical
@@ -16,9 +53,6 @@ tags:
   - theme/energy
   - theme/climate
   - theme/geopolitics
-category: Geospatial
-complexity: intermediate
-best_audience: policymakers, analysts, general public
 ---
 
 # Choropleth Map

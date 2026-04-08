@@ -5,6 +5,33 @@ aliases:
   - Seasonality Chart
   - Year-over-Year Monthly Chart
   - Cyclical Pattern Chart
+chart_type: seasonal-pattern-chart
+category: temporal
+data_types:
+  - time-series
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - technical
+  - policymaker
+visual_styles:
+  - minimal
+  - dashboard
+  - editorial
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - flourish
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -15,9 +42,6 @@ tags:
   - theme/energy-markets
   - theme/renewable-energy
   - theme/climate
-category: Temporal
-complexity: intermediate
-best_audience: energy analysts, grid operators, climate researchers, policymakers
 ---
 
 # Seasonal Pattern Chart

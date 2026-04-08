@@ -3,6 +3,34 @@ title: Stream Graph
 aliases:
   - ThemeRiver
   - Streamgraph
+chart_type: stream-graph
+category: temporal
+data_types:
+  - time-series
+  - categorical
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - COP UNFCCC IEA
+complexity: complex
+audience:
+  - media
+  - technical
+visual_styles:
+  - artistic
+  - editorial
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - vega
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -17,9 +45,6 @@ tags:
   - theme/carbon-markets
   - theme/cop-unfccc
   - theme/renewable-energy
-category: Temporal
-complexity: advanced
-best_audience: analysts, researchers, data designers
 ---
 
 # Stream Graph

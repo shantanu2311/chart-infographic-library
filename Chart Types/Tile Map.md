@@ -4,6 +4,34 @@ aliases:
   - Grid Map
   - Hex Tile Map
   - Cartogram Grid
+chart_type: tile-map
+category: spatial
+data_types:
+  - geographic
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Carbon Markets
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - media
+  - policymaker
+  - public
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: sequential
+libraries:
+  - d3
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/geospatial
   - data-type/geographic
@@ -18,9 +46,6 @@ tags:
   - theme/renewable-energy
   - theme/carbon-markets
   - theme/net-zero
-category: Geospatial
-complexity: intermediate
-best_audience: analysts, policymakers, general public
 ---
 
 # Tile Map

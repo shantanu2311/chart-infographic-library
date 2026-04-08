@@ -101,6 +101,65 @@ A comprehensive reference library for data visualization — chart types, infogr
 
 ---
 
+## Design Principles
+
+- [[Color for Data]] — palettes, colorblind safety, perceptual uniformity
+- [[Typography in Charts]] — font hierarchy, sizing, number formatting
+- [[Annotation Techniques]] — direct labels, callouts, event markers
+- [[Data-Ink Ratio]] — maximizing data, minimizing chart junk
+- [[Small Multiples Patterns]] — grid layouts, shared axes, faceting
+- [[Mobile-Responsive Charts]] — breakpoints, touch targets, social media sizing
+- [[Accessibility in Dataviz]] — WCAG contrast, colorblind palettes, screen readers
+- [[Chart Titles That Work]] — declarative vs descriptive, subtitle conventions
+- [[Axis Design]] — zero baseline, log scales, tick density
+- [[Legend Placement]] — direct labeling, integrated legends
+- [[Dark Mode Design]] — inverted contrast, saturation, surface levels
+- [[Brand-Consistent Charts]] — branded palettes, templates, style guides
+- [[Storytelling with Sequence]] — progressive disclosure, scrollytelling
+- [[Emphasis and De-emphasis]] — selective highlighting, greying context
+- [[Chart Animation Guidelines]] — entrance, transition, when NOT to animate
+- [[Choosing the Right Chart]] — decision framework for chart selection
+
+---
+
+## Source Organizations
+
+- [[Ember]] — energy transition tracking, open data, navy+green design system
+- [[IEA]] — policy authority, scenario projections, energy balance Sankeys
+- [[IRENA]] — renewable energy stats, LCOE benchmarks, cost curves
+- [[Visual Capitalist]] — bold poster infographics, giant treemaps
+- [[Our World in Data]] — academic rigor, interactive explorers, fully CC BY
+- [[Bloomberg BNEF]] — financial terminal aesthetic, investment tracking
+- [[The Economist]] — one-insight-per-chart discipline, restrained color
+- [[Reuters Graphics]] — scrollytelling, annotation-rich journalism
+- [[NYT Graphics]] — gold standard data journalism, D3.js mastery
+- [[The Pudding]] — playful interactive essays, cultural data
+- [[FiveThirtyEight]] — statistical rigor, uncertainty communication
+- [[Climate Action Tracker]] — traffic-light policy ratings, warming projections
+- [[Global Carbon Project]] — definitive carbon budget data, historical emissions
+- [[Carbon Tracker]] — stranded assets, financial risk framing
+- [[Datawrapper]] — editorial-quality chart tool, responsive-first
+
+---
+
+## Code Templates
+
+### D3.js
+- [[Bar Chart — D3 Template]] | [[Line Chart — D3 Template]] | [[Area Chart — D3 Template]]
+- [[Scatter Plot — D3 Template]] | [[Pie Chart — D3 Template]] | [[Treemap — D3 Template]]
+- [[Sankey Diagram — D3 Template]] | [[Heatmap — D3 Template]] | [[Choropleth Map — D3 Template]]
+- [[Waterfall Chart — D3 Template]] | [[Stacked Bar Chart — D3 Template]] | [[Bubble Chart — D3 Template]]
+- [[Donut Chart — D3 Template]] | [[Radar Chart — D3 Template]] | [[Candlestick Chart — D3 Template]]
+
+### Plotly (Python)
+- [[Bar Chart — Plotly Template]] | [[Line Chart — Plotly Template]] | [[Area Chart — Plotly Template]]
+- [[Scatter Plot — Plotly Template]] | [[Pie Chart — Plotly Template]] | [[Treemap — Plotly Template]]
+- [[Sankey Diagram — Plotly Template]] | [[Heatmap — Plotly Template]] | [[Choropleth Map — Plotly Template]]
+- [[Waterfall Chart — Plotly Template]] | [[Stacked Bar Chart — Plotly Template]] | [[Bubble Chart — Plotly Template]]
+- [[Donut Chart — Plotly Template]] | [[Radar Chart — Plotly Template]] | [[Candlestick Chart — Plotly Template]]
+
+---
+
 ## Infographic Styles
 
 - [[Statistical Infographic]] — numbers, percentages, key figures
@@ -255,4 +314,4 @@ A comprehensive reference library for data visualization — chart types, infogr
 
 ---
 
-*This library contains **115 notes**: 60 chart types, 8 infographic styles, 31 data contexts, 8 visual styles, and 8 use cases.*
+*This library contains **177 notes**: 60 chart types, 16 design principles, 15 source profiles, 30 code templates (15 D3.js + 15 Plotly), 8 infographic styles, 31 data contexts, 8 visual styles, and 8 use cases. Plus a Screenshots/ folder ready for reference images.*

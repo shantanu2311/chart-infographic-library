@@ -3,6 +3,35 @@ title: Dot Plot
 aliases:
   - Cleveland Dot Plot
   - Dot Chart
+chart_type: dot-plot
+category: comparison
+data_types:
+  - categorical
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Carbon Markets
+complexity: simple
+audience:
+  - technical
+  - academic
+  - public
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - recharts
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -16,9 +45,6 @@ tags:
   - theme/carbon-markets
   - theme/climate
   - theme/iea
-category: Comparison
-complexity: beginner
-best_audience: analyst, executive, researcher
 ---
 
 # Dot Plot

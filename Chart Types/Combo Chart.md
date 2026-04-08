@@ -4,6 +4,37 @@ aliases:
   - Dual-Axis Chart
   - Mixed Chart
   - Overlay Chart
+chart_type: combo-chart
+category: kpi
+data_types:
+  - time-series
+  - continuous
+  - categorical
+data_contexts:
+  - Energy Markets
+  - Carbon Markets
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - executive
+  - technical
+visual_styles:
+  - corporate
+  - dashboard
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - highcharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/multi-measure
   - data-type/time-series
@@ -18,9 +49,6 @@ tags:
   - theme/carbon-markets
   - theme/renewable-energy
   - theme/finance
-category: Multi-measure
-complexity: intermediate
-best_audience: analysts, executives, operations managers
 ---
 
 # Combo Chart

@@ -3,6 +3,33 @@ title: Population Pyramid
 aliases:
   - Age-Sex Pyramid
   - Demographic Pyramid
+chart_type: population-pyramid
+category: distribution
+data_types:
+  - categorical
+  - continuous
+  - paired
+data_contexts:
+  - Just Transition & Social Impact
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - policymaker
+  - public
+  - media
+visual_styles:
+  - editorial
+  - data-journalism
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/demographic
@@ -16,9 +43,6 @@ tags:
   - theme/climate
   - theme/supply-chain
   - theme/esg
-category: Distribution
-complexity: intermediate
-best_audience: analysts, policymakers, researchers
 ---
 
 # Population Pyramid

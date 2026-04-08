@@ -4,6 +4,34 @@ aliases:
   - Connected Dot Plot
   - Dumbbell Plot
   - Gap Chart
+chart_type: dumbbell-chart
+category: comparison
+data_types:
+  - categorical
+  - paired
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Carbon Markets
+complexity: medium
+audience:
+  - technical
+  - media
+  - policymaker
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/paired-comparisons
@@ -18,9 +46,6 @@ tags:
   - theme/carbon-markets
   - theme/net-zero
   - theme/cop-unfccc
-category: Comparison
-complexity: intermediate
-best_audience: analyst, executive, policymaker
 ---
 
 # Dumbbell Chart

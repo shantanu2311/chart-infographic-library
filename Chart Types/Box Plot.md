@@ -3,6 +3,33 @@ title: Box Plot
 aliases:
   - Box & Whisker Plot
   - Box-and-Whisker Chart
+chart_type: box-plot
+category: distribution
+data_types:
+  - continuous
+  - categorical
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Carbon Markets
+complexity: medium
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - corporate
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - recharts
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/continuous-numeric
@@ -16,9 +43,6 @@ tags:
   - theme/carbon-markets
   - theme/iea
   - theme/public-finance
-category: Distribution
-complexity: intermediate
-best_audience: analyst, researcher
 ---
 
 # Box Plot

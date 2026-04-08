@@ -2,6 +2,40 @@
 title: Column Chart
 aliases:
   - Vertical Bar Chart
+chart_type: column-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+  - time-series
+data_contexts:
+  - Energy Markets
+  - Carbon Markets
+  - Public Finance & MDBs
+complexity: simple
+audience:
+  - executive
+  - public
+  - policymaker
+visual_styles:
+  - minimal
+  - corporate
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -16,9 +50,6 @@ tags:
   - theme/carbon-markets
   - theme/mdb
   - theme/public-finance
-category: Comparison
-complexity: beginner
-best_audience: general, executive, analyst
 ---
 
 # Column Chart

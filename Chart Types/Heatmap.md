@@ -3,6 +3,38 @@ title: Heatmap
 aliases:
   - Heat Map
   - Density Matrix
+chart_type: heatmap
+category: relationship
+data_types:
+  - continuous
+  - categorical
+  - time-series
+data_contexts:
+  - Energy Markets
+  - Carbon Markets
+  - Renewable Energy & Transition
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - dashboard
+  - dark-mode
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/matrix
@@ -16,9 +48,6 @@ tags:
   - theme/carbon-markets
   - theme/emissions
   - theme/renewable-energy
-category: Relationship
-complexity: intermediate
-best_audience: analysts, researchers, traders, operations managers
 ---
 
 # Heatmap

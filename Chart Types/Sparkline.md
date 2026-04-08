@@ -3,6 +3,32 @@ title: Sparkline
 aliases:
   - Inline Chart
   - Word-Sized Graphic
+chart_type: sparkline
+category: temporal
+data_types:
+  - time-series
+data_contexts:
+  - Energy Markets
+  - Carbon Markets
+  - Financial Markets
+complexity: simple
+audience:
+  - executive
+  - technical
+visual_styles:
+  - minimal
+  - corporate
+  - dashboard
+color_approach: monochrome
+libraries:
+  - d3
+  - recharts
+  - highcharts
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/micro
   - data-type/time-series
@@ -15,9 +41,6 @@ tags:
   - theme/climate
   - theme/carbon-markets
   - theme/finance
-category: Micro
-complexity: beginner
-best_audience: analysts, executives, operations managers
 ---
 
 # Sparkline

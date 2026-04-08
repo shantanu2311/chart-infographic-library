@@ -4,6 +4,37 @@ aliases:
   - Proportional Symbol Map
   - Graduated Symbol Map
   - Point Map
+chart_type: bubble-map
+category: spatial
+data_types:
+  - geographic
+  - continuous
+  - categorical
+data_contexts:
+  - Renewable Energy & Transition
+  - Energy Markets
+  - Supply Chain & Critical Minerals
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - executive
+  - policymaker
+  - technical
+visual_styles:
+  - editorial
+  - corporate
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/geospatial
   - data-type/quantitative
@@ -18,9 +49,6 @@ tags:
   - theme/supply-chain
   - theme/critical-minerals
   - theme/infrastructure
-category: Geospatial
-complexity: intermediate
-best_audience: analysts, policymakers, investors
 ---
 
 # Bubble Map

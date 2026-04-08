@@ -4,6 +4,33 @@ aliases:
   - Speedometer
   - Dial Chart
   - Radial Gauge
+chart_type: gauge-chart
+category: kpi
+data_types:
+  - continuous
+data_contexts:
+  - Net Zero Pathways
+  - Renewable Energy & Transition
+  - ESG & Sustainable Finance
+complexity: simple
+audience:
+  - executive
+  - public
+  - policymaker
+visual_styles:
+  - dashboard
+  - corporate
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - highcharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/kpi
   - data-type/single-value
@@ -17,9 +44,6 @@ tags:
   - theme/climate
   - theme/esg
   - theme/net-zero
-category: KPI
-complexity: beginner
-best_audience: executives, operations managers, general public
 ---
 
 # Gauge Chart

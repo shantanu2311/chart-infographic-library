@@ -4,6 +4,33 @@ aliases:
   - Square Pie Chart
   - Unit Chart
   - Grid Chart
+chart_type: waffle-chart
+category: part-to-whole
+data_types:
+  - categorical
+  - proportional
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Net Zero Pathways
+complexity: medium
+audience:
+  - public
+  - media
+  - policymaker
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - matplotlib
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/proportional
@@ -16,9 +43,6 @@ tags:
   - theme/climate-finance
   - theme/net-zero
   - theme/NDCs
-category: Composition
-complexity: intermediate
-best_audience: general public, media, policy-makers
 ---
 
 # Waffle Chart

@@ -4,6 +4,30 @@ aliases:
   - Coxcomb Chart
   - Polar Area Chart
   - Florence Nightingale Chart
+chart_type: nightingale-rose-chart
+category: part-to-whole
+data_types:
+  - categorical
+  - continuous
+  - time-series
+data_contexts:
+  - Renewable Energy & Transition
+  - Energy Markets
+complexity: medium
+audience:
+  - media
+  - technical
+visual_styles:
+  - artistic
+  - editorial
+color_approach: sequential
+libraries:
+  - d3
+  - echarts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/categorical
@@ -16,9 +40,6 @@ tags:
   - theme/energy
   - theme/climate
   - theme/renewable-energy
-category: Composition
-complexity: intermediate
-best_audience: analysts, general public, policymakers
 ---
 
 # Nightingale Rose Chart

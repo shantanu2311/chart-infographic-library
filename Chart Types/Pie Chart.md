@@ -3,6 +3,35 @@ title: Pie Chart
 aliases:
   - Circle Chart
   - Sector Chart
+chart_type: pie-chart
+category: part-to-whole
+data_types:
+  - categorical
+  - proportional
+data_contexts:
+  - Energy Markets
+  - Climate & Emissions
+  - Renewable Energy & Transition
+complexity: simple
+audience:
+  - executive
+  - public
+visual_styles:
+  - corporate
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/categorical
@@ -15,9 +44,6 @@ tags:
   - theme/emissions
   - theme/climate-finance
   - theme/MDBs
-category: Composition
-complexity: beginner
-best_audience: general public, executives, media, non-technical stakeholders
 ---
 
 # Pie Chart

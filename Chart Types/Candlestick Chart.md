@@ -4,6 +4,36 @@ aliases:
   - OHLC Chart
   - Japanese Candlestick Chart
   - K-Line Chart
+chart_type: candlestick-chart
+category: temporal
+data_types:
+  - time-series
+  - financial
+data_contexts:
+  - Carbon Markets
+  - Energy Markets
+  - Commodity Markets (Oil Gas Metals)
+  - Financial Markets
+complexity: medium
+audience:
+  - technical
+  - executive
+visual_styles:
+  - dashboard
+  - corporate
+  - dark-mode
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - highcharts
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/financial
@@ -18,9 +48,6 @@ tags:
   - theme/carbon-markets
   - theme/critical-minerals
   - theme/renewable-energy
-category: Temporal
-complexity: intermediate
-best_audience: analysts, traders, finance professionals
 ---
 
 # Candlestick Chart

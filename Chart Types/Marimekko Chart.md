@@ -4,6 +4,31 @@ aliases:
   - Mekko Chart
   - Mosaic Plot
   - Marimekko Plot
+chart_type: marimekko-chart
+category: composition
+data_types:
+  - categorical
+  - continuous
+  - proportional
+data_contexts:
+  - Energy Markets
+  - Climate & Emissions
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - corporate
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - highcharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/categorical
@@ -17,9 +42,6 @@ tags:
   - theme/energy-transition
   - theme/MDBs
   - theme/carbon-markets
-category: Composition
-complexity: advanced
-best_audience: analysts, consultants, researchers
 ---
 
 # Marimekko Chart

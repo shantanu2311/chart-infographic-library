@@ -3,6 +3,33 @@ title: Connected Scatter Plot
 aliases:
   - Connected Dot Plot
   - Trajectory Plot
+chart_type: connected-scatter-plot
+category: relationship
+data_types:
+  - continuous
+  - time-series
+  - paired
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - technical
+  - media
+  - academic
+visual_styles:
+  - editorial
+  - data-journalism
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/bivariate
@@ -17,9 +44,6 @@ tags:
   - theme/finance
   - theme/net-zero
   - theme/carbon-markets
-category: Relationship
-complexity: intermediate
-best_audience: analysts, researchers, policymakers
 ---
 
 # Connected Scatter Plot

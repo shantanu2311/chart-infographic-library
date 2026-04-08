@@ -3,6 +3,42 @@ title: Stacked Bar Chart
 aliases:
   - Stacked Column Chart
   - Segmented Bar Chart
+chart_type: stacked-bar-chart
+category: composition
+data_types:
+  - categorical
+  - continuous
+  - time-series
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Public Finance & MDBs
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - minimal
+  - dashboard
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/categorical
@@ -16,9 +52,6 @@ tags:
   - theme/emissions
   - theme/MDBs
   - theme/energy-transition
-category: Composition
-complexity: intermediate
-best_audience: analysts, policy-makers, executives
 ---
 
 # Stacked Bar Chart

@@ -2,6 +2,34 @@
 title: Bullet Chart
 aliases:
   - Bullet Graph
+chart_type: bullet-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+  - paired
+data_contexts:
+  - Net Zero Pathways
+  - Public Finance & MDBs
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - dashboard
+color_approach: sequential
+libraries:
+  - d3
+  - recharts
+  - highcharts
+  - tableau
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/actual-vs-target
@@ -15,9 +43,6 @@ tags:
   - theme/renewable-energy
   - theme/climate
   - theme/public-finance
-category: Comparison
-complexity: intermediate
-best_audience: executive, analyst
 ---
 
 # Bullet Chart

@@ -3,6 +3,36 @@ title: Treemap
 aliases:
   - Tree Map
   - Rectangular Treemap
+chart_type: treemap
+category: hierarchical
+data_types:
+  - hierarchical
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Public Finance & MDBs
+  - Supply Chain & Critical Minerals
+complexity: medium
+audience:
+  - technical
+  - executive
+visual_styles:
+  - corporate
+  - dashboard
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - recharts
+  - highcharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/hierarchical
@@ -16,9 +46,6 @@ tags:
   - theme/MDBs
   - theme/critical-minerals
   - theme/supply-chain
-category: Composition
-complexity: intermediate
-best_audience: analysts, researchers, policy-makers
 ---
 
 # Treemap

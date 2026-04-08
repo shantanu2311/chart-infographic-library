@@ -3,6 +3,34 @@ title: Bump Chart
 aliases:
   - Ranking Chart
   - Rank Chart
+chart_type: bump-chart
+category: temporal
+data_types:
+  - time-series
+  - categorical
+data_contexts:
+  - Renewable Energy & Transition
+  - Carbon Markets
+  - Energy Markets
+complexity: medium
+audience:
+  - media
+  - technical
+  - policymaker
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/ordinal
@@ -17,9 +45,6 @@ tags:
   - theme/carbon-markets
   - theme/climate
   - theme/net-zero
-category: Temporal
-complexity: intermediate
-best_audience: analysts, executives, policymakers
 ---
 
 # Bump Chart

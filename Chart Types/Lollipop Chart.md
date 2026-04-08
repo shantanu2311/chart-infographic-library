@@ -2,6 +2,33 @@
 title: Lollipop Chart
 aliases:
   - Lollipop Plot
+chart_type: lollipop-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - technical
+  - academic
+  - media
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - recharts
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -14,9 +41,6 @@ tags:
   - theme/net-zero
   - theme/cop-unfccc
   - theme/energy-markets
-category: Comparison
-complexity: intermediate
-best_audience: analyst, executive
 ---
 
 # Lollipop Chart

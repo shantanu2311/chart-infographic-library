@@ -4,6 +4,32 @@ aliases:
   - Distorted Map
   - Area Cartogram
   - Value-by-Area Map
+chart_type: cartogram
+category: spatial
+data_types:
+  - geographic
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Public Finance & MDBs
+complexity: complex
+audience:
+  - media
+  - academic
+  - technical
+visual_styles:
+  - artistic
+  - editorial
+  - data-journalism
+color_approach: sequential
+libraries:
+  - d3
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/geospatial
   - data-type/quantitative
@@ -16,9 +42,6 @@ tags:
   - theme/energy
   - theme/finance
   - theme/geopolitics
-category: Geospatial
-complexity: advanced
-best_audience: analysts, researchers, policymakers
 ---
 
 # Cartogram

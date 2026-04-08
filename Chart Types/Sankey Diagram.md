@@ -3,6 +3,39 @@ title: Sankey Diagram
 aliases:
   - Flow Diagram
   - Energy Flow Diagram
+chart_type: sankey-diagram
+category: flow
+data_types:
+  - categorical
+  - continuous
+  - hierarchical
+  - sequential
+data_contexts:
+  - Energy Markets
+  - Climate & Emissions
+  - Public Finance & MDBs
+  - Carbon Markets
+  - Ember Global Electricity Data
+complexity: complex
+audience:
+  - technical
+  - policymaker
+  - executive
+visual_styles:
+  - corporate
+  - editorial
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - highcharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/flow
   - data-type/categorical
@@ -19,9 +52,6 @@ tags:
   - theme/iea
   - theme/mdb
   - theme/public-finance
-category: Flow
-complexity: advanced
-best_audience: analysts, policymakers, researchers, energy specialists
 ---
 
 # Sankey Diagram

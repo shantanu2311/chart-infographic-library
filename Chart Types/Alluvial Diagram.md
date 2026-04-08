@@ -3,6 +3,33 @@ title: Alluvial Diagram
 aliases:
   - Alluvial Plot
   - Parallel Sets Diagram
+chart_type: alluvial-diagram
+category: flow
+data_types:
+  - categorical
+  - time-series
+  - sequential
+data_contexts:
+  - Carbon Markets
+  - Climate & Emissions
+  - Public Finance & MDBs
+complexity: complex
+audience:
+  - technical
+  - academic
+  - policymaker
+visual_styles:
+  - editorial
+  - artistic
+color_approach: categorical
+libraries:
+  - d3
+  - flourish
+  - rawgraphs
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/flow
   - data-type/categorical
@@ -18,9 +45,6 @@ tags:
   - theme/cop-unfccc
   - theme/mdb
   - theme/renewable-energy
-category: Flow
-complexity: advanced
-best_audience: analysts, researchers, policymakers
 ---
 
 # Alluvial Diagram

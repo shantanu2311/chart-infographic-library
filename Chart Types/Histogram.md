@@ -3,6 +3,33 @@ title: Histogram
 aliases:
   - Frequency Histogram
   - Frequency Distribution Chart
+chart_type: histogram
+category: distribution
+data_types:
+  - continuous
+data_contexts:
+  - Carbon Markets
+  - Energy Markets
+  - Climate & Emissions
+complexity: medium
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - corporate
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - matplotlib
+  - recharts
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/continuous-numeric
@@ -14,9 +41,6 @@ tags:
   - theme/energy-markets
   - theme/climate
   - theme/iea
-category: Distribution
-complexity: intermediate
-best_audience: analyst, researcher
 ---
 
 # Histogram

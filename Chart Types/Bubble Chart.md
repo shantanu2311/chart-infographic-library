@@ -3,6 +3,36 @@ title: Bubble Chart
 aliases:
   - Bubble Plot
   - Proportional Symbol Chart
+chart_type: bubble-chart
+category: relationship
+data_types:
+  - continuous
+  - categorical
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Public Finance & MDBs
+complexity: medium
+audience:
+  - executive
+  - technical
+  - media
+visual_styles:
+  - corporate
+  - editorial
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/continuous
@@ -15,9 +45,6 @@ tags:
   - theme/energy-transition
   - theme/MDBs
   - theme/climate-finance
-category: Relationship
-complexity: intermediate
-best_audience: analysts, researchers, policy-makers
 ---
 
 # Bubble Chart

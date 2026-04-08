@@ -3,6 +3,35 @@ title: Slope Chart
 aliases:
   - Slopegraph
   - Before-After Chart
+chart_type: slope-chart
+category: specialized
+data_types:
+  - time-series
+  - paired
+  - categorical
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Carbon Markets
+complexity: medium
+audience:
+  - media
+  - technical
+  - policymaker
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - datawrapper
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/specialized
   - data-type/paired-comparison
@@ -19,9 +48,6 @@ tags:
   - theme/carbon-markets
   - theme/mdb
   - theme/net-zero
-category: Specialized
-complexity: intermediate
-best_audience: executives, analysts, policymakers, general public
 ---
 
 # Slope Chart

@@ -3,6 +3,33 @@ title: Chord Diagram
 aliases:
   - Chord Graph
   - Radial Network Diagram
+chart_type: chord-diagram
+category: flow
+data_types:
+  - relational
+  - categorical
+  - continuous
+data_contexts:
+  - Geopolitics & Energy Security
+  - Supply Chain & Critical Minerals
+  - Carbon Markets
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - artistic
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/flow
   - data-type/relational
@@ -17,9 +44,6 @@ tags:
   - theme/critical-minerals
   - theme/carbon-markets
   - theme/supply-chain
-category: Flow
-complexity: advanced
-best_audience: analysts, researchers, data scientists
 ---
 
 # Chord Diagram

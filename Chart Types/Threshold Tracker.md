@@ -5,6 +5,35 @@ aliases:
   - Threshold Crossing Chart
   - Adoption Threshold Chart
   - Phase-Down Tracker
+chart_type: threshold-tracker
+category: specialized
+data_types:
+  - time-series
+  - categorical
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Carbon Markets
+  - Net Zero Pathways
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - policymaker
+  - media
+  - public
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: diverging
+libraries:
+  - d3
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -16,9 +45,6 @@ tags:
   - theme/renewable-energy
   - theme/coal-phase-down
   - theme/net-zero
-category: Temporal
-complexity: intermediate
-best_audience: policymakers, advocates, energy analysts
 ---
 
 # Threshold Tracker

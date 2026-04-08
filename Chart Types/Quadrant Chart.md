@@ -4,6 +4,33 @@ aliases:
   - 2x2 Matrix
   - Four Quadrant
   - Boston Matrix
+chart_type: quadrant-chart
+category: comparison
+data_types:
+  - continuous
+  - paired
+data_contexts:
+  - Climate Tech & Cleantech Startups
+  - Renewable Energy & Transition
+  - ESG & Sustainable Finance
+complexity: medium
+audience:
+  - executive
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - tableau
+  - matplotlib
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/bivariate
@@ -19,9 +46,6 @@ tags:
   - theme/renewable-energy
   - theme/net-zero
   - theme/esg
-category: Comparison
-complexity: intermediate
-best_audience: executives, analysts, policymakers
 ---
 
 # Quadrant Chart

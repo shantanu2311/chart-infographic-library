@@ -4,6 +4,40 @@ aliases:
   - Scatter Chart
   - Scatter Graph
   - XY Plot
+chart_type: scatter-plot
+category: relationship
+data_types:
+  - continuous
+  - paired
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Energy Markets
+  - ESG & Sustainable Finance
+complexity: simple
+audience:
+  - technical
+  - academic
+  - executive
+visual_styles:
+  - minimal
+  - corporate
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - datawrapper
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/continuous
@@ -16,9 +50,6 @@ tags:
   - theme/renewable-energy
   - theme/energy-transition
   - theme/net-zero
-category: Relationship
-complexity: beginner
-best_audience: analysts, researchers, policy-makers
 ---
 
 # Scatter Plot

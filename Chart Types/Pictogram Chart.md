@@ -3,6 +3,33 @@ title: Pictogram Chart
 aliases:
   - Icon Array
   - Isotype Chart
+chart_type: pictogram-chart
+category: part-to-whole
+data_types:
+  - categorical
+  - proportional
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Just Transition & Social Impact
+complexity: simple
+audience:
+  - public
+  - media
+  - policymaker
+visual_styles:
+  - editorial
+  - handwritten
+  - artistic
+color_approach: categorical
+libraries:
+  - d3
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/count
@@ -16,9 +43,6 @@ tags:
   - theme/climate
   - theme/renewable-energy
   - theme/net-zero
-category: Composition
-complexity: beginner
-best_audience: general public, policymakers, executives
 ---
 
 # Pictogram Chart

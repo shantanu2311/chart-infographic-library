@@ -5,6 +5,33 @@ aliases:
   - Node-Link Diagram
   - Network Graph
   - Force-Directed Graph
+chart_type: network-diagram
+category: relationship
+data_types:
+  - relational
+  - categorical
+data_contexts:
+  - Supply Chain & Critical Minerals
+  - Geopolitics & Energy Security
+  - Carbon Markets
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - editorial
+  - artistic
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/relational
@@ -19,9 +46,6 @@ tags:
   - theme/critical-minerals
   - theme/climate-finance
   - theme/COP-UNFCCC
-category: Relationship
-complexity: advanced
-best_audience: analysts, researchers, policy-makers
 ---
 
 # Network Diagram

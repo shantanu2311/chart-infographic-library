@@ -4,6 +4,31 @@ aliases:
   - Correlation Matrix Chart
   - Correlation Heatmap
   - Pair Correlation Plot
+chart_type: correlogram
+category: relationship
+data_types:
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Commodity Markets (Oil Gas Metals)
+  - ESG & Sustainable Finance
+complexity: complex
+audience:
+  - technical
+  - academic
+visual_styles:
+  - minimal
+  - corporate
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/relationship
   - data-type/correlation
@@ -17,9 +42,6 @@ tags:
   - theme/carbon-markets
   - theme/renewable-energy
   - theme/finance
-category: Relationship
-complexity: advanced
-best_audience: analysts, researchers, quantitative analysts
 ---
 
 # Correlogram

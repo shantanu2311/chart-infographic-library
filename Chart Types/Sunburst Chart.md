@@ -4,6 +4,32 @@ aliases:
   - Sunburst Diagram
   - Multi-level Pie Chart
   - Radial Treemap
+chart_type: sunburst-chart
+category: hierarchical
+data_types:
+  - hierarchical
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - COP UNFCCC IEA
+complexity: complex
+audience:
+  - technical
+  - executive
+visual_styles:
+  - corporate
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - echarts
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/hierarchical
@@ -16,9 +42,6 @@ tags:
   - theme/supply-chain
   - theme/UNFCCC
   - theme/GHG-protocol
-category: Composition
-complexity: advanced
-best_audience: analysts, researchers, technical audiences
 ---
 
 # Sunburst Chart

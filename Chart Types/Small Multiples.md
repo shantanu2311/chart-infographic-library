@@ -4,6 +4,37 @@ aliases:
   - Trellis Chart
   - Panel Chart
   - Lattice Plot
+chart_type: small-multiples
+category: pattern
+data_types:
+  - time-series
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - technical
+  - media
+  - policymaker
+visual_styles:
+  - minimal
+  - editorial
+  - data-journalism
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - datawrapper
+  - matplotlib
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/pattern
   - data-type/time-series
@@ -18,9 +49,6 @@ tags:
   - theme/carbon-markets
   - theme/renewable-energy
   - theme/esg
-category: Pattern
-complexity: intermediate
-best_audience: analysts, researchers, executives
 ---
 
 # Small Multiples

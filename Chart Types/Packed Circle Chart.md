@@ -2,6 +2,30 @@
 title: Packed Circle Chart
 aliases:
   - Circle Packing
+chart_type: packed-circle-chart
+category: hierarchical
+data_types:
+  - hierarchical
+  - categorical
+  - continuous
+data_contexts:
+  - Climate & Emissions
+  - Public Finance & MDBs
+complexity: medium
+audience:
+  - technical
+  - media
+visual_styles:
+  - artistic
+  - editorial
+color_approach: categorical
+libraries:
+  - d3
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/hierarchical
   - data-type/hierarchical
@@ -15,9 +39,6 @@ tags:
   - theme/climate
   - theme/mdb
   - theme/supply-chain
-category: Hierarchical
-complexity: intermediate
-best_audience: analysts, researchers, executives
 ---
 
 # Packed Circle Chart

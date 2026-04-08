@@ -5,6 +5,34 @@ aliases:
   - Metric Highlight Cards
   - Stat Cards
   - Big Number Cards
+chart_type: kpi-card-array
+category: kpi
+data_types:
+  - continuous
+  - categorical
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - ESG & Sustainable Finance
+  - Carbon Markets
+  - Ember Global Electricity Data
+complexity: simple
+audience:
+  - executive
+  - public
+  - policymaker
+visual_styles:
+  - corporate
+  - dashboard
+  - minimal
+color_approach: branded
+libraries:
+  - d3
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/kpi
   - data-type/numeric
@@ -17,9 +45,6 @@ tags:
   - theme/climate
   - theme/renewable-energy
   - theme/finance
-category: KPI
-complexity: beginner
-best_audience: general audiences, executives, policymakers, dashboard users
 ---
 
 # KPI Card Array

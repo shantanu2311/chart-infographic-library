@@ -3,6 +3,34 @@ title: Donut Chart
 aliases:
   - Doughnut Chart
   - Ring Chart
+chart_type: donut-chart
+category: part-to-whole
+data_types:
+  - categorical
+  - proportional
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - ESG & Sustainable Finance
+complexity: simple
+audience:
+  - executive
+  - public
+visual_styles:
+  - corporate
+  - minimal
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/composition
   - data-type/categorical
@@ -14,9 +42,6 @@ tags:
   - theme/renewable-energy
   - theme/emissions
   - theme/climate-finance
-category: Composition
-complexity: beginner
-best_audience: general public, executives, dashboard users
 ---
 
 # Donut Chart

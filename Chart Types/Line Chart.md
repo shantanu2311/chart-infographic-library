@@ -4,6 +4,48 @@ aliases:
   - Line Graph
   - Time Series Chart
   - Trend Chart
+chart_type: line-chart
+category: temporal
+data_types:
+  - time-series
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Carbon Markets
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Net Zero Pathways
+  - Ember Global Electricity Data
+complexity: simple
+audience:
+  - executive
+  - public
+  - technical
+  - policymaker
+  - media
+  - academic
+visual_styles:
+  - minimal
+  - corporate
+  - editorial
+  - data-journalism
+  - dashboard
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - chartjs
+  - echarts
+  - recharts
+  - matplotlib
+  - highcharts
+  - flourish
+  - datawrapper
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -21,9 +63,6 @@ tags:
   - theme/renewable-energy
   - theme/net-zero
   - theme/iea
-category: Temporal
-complexity: beginner
-best_audience: executives, analysts, policymakers, general public
 ---
 
 # Line Chart

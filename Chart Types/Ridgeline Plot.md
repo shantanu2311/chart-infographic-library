@@ -4,6 +4,33 @@ aliases:
   - Joy Plot
   - Ridge Plot
   - Joyplot
+chart_type: ridgeline-plot
+category: distribution
+data_types:
+  - continuous
+  - time-series
+data_contexts:
+  - Climate & Emissions
+  - Energy Markets
+complexity: complex
+audience:
+  - technical
+  - academic
+  - media
+visual_styles:
+  - editorial
+  - artistic
+  - data-journalism
+color_approach: sequential
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - vega
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/distribution
   - data-type/distributions-over-time
@@ -19,9 +46,6 @@ tags:
   - theme/renewable-energy
   - theme/iea
   - theme/net-zero
-category: Distribution
-complexity: advanced
-best_audience: analyst, researcher, data-scientist
 ---
 
 # Ridgeline Plot

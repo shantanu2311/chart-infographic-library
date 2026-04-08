@@ -3,6 +3,33 @@ title: Racing Bar Chart
 aliases:
   - Bar Chart Race
   - Animated Bar Chart
+chart_type: racing-bar-chart
+category: temporal
+data_types:
+  - time-series
+  - categorical
+  - continuous
+data_contexts:
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Electric Vehicles & E-Mobility
+complexity: medium
+audience:
+  - public
+  - media
+  - policymaker
+visual_styles:
+  - editorial
+  - data-journalism
+  - artistic
+color_approach: categorical
+libraries:
+  - d3
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -16,9 +43,6 @@ tags:
   - theme/climate
   - theme/carbon-markets
   - theme/renewable-energy
-category: Temporal
-complexity: intermediate
-best_audience: general public, media, executives
 ---
 
 # Racing Bar Chart

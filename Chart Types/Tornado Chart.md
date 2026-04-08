@@ -4,6 +4,32 @@ aliases:
   - Butterfly Chart
   - Diverging Bar Chart
   - Sensitivity Chart
+chart_type: tornado-chart
+category: comparison
+data_types:
+  - categorical
+  - paired
+data_contexts:
+  - Climate & Emissions
+  - Renewable Energy & Transition
+  - Energy Markets
+complexity: medium
+audience:
+  - technical
+  - policymaker
+visual_styles:
+  - corporate
+  - data-journalism
+color_approach: diverging
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - tableau
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -17,9 +43,6 @@ tags:
   - theme/climate
   - theme/net-zero
   - theme/finance
-category: Comparison
-complexity: intermediate
-best_audience: analysts, executives, policymakers
 ---
 
 # Tornado Chart

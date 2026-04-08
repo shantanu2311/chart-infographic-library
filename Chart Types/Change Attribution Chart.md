@@ -5,6 +5,35 @@ aliases:
   - Source Attribution Chart
   - Change Drivers Chart
   - Contribution Analysis Chart
+chart_type: change-attribution-chart
+category: specialized
+data_types:
+  - categorical
+  - time-series
+  - continuous
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+  - Climate & Emissions
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - technical
+  - policymaker
+  - executive
+visual_styles:
+  - editorial
+  - corporate
+  - data-journalism
+color_approach: diverging
+libraries:
+  - d3
+  - flourish
+  - datawrapper
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/specialized
   - data-type/categorical
@@ -16,9 +45,6 @@ tags:
   - theme/renewable-energy
   - theme/climate
   - theme/iea
-category: Specialized
-complexity: intermediate
-best_audience: analysts, policymakers, energy researchers
 ---
 
 # Change Attribution Chart

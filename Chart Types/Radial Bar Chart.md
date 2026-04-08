@@ -3,6 +3,31 @@ title: Radial Bar Chart
 aliases:
   - Circular Bar Chart
   - Polar Bar Chart
+chart_type: radial-bar-chart
+category: comparison
+data_types:
+  - categorical
+  - continuous
+  - time-series
+data_contexts:
+  - Energy Markets
+  - Renewable Energy & Transition
+complexity: medium
+audience:
+  - technical
+  - media
+visual_styles:
+  - artistic
+  - data-journalism
+color_approach: sequential
+libraries:
+  - d3
+  - echarts
+  - recharts
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/comparison
   - data-type/categorical
@@ -16,9 +41,6 @@ tags:
   - theme/climate
   - theme/renewable-energy
   - theme/carbon-markets
-category: Comparison
-complexity: intermediate
-best_audience: analysts, executives, general public
 ---
 
 # Radial Bar Chart

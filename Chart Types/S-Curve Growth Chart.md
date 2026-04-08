@@ -5,6 +5,37 @@ aliases:
   - Technology Adoption Curve
   - Doubling Time Chart
   - Logistic Growth Chart
+chart_type: s-curve-growth-chart
+category: temporal
+data_types:
+  - time-series
+  - continuous
+data_contexts:
+  - Renewable Energy & Transition
+  - Electric Vehicles & E-Mobility
+  - Hydrogen Economy
+  - Climate Tech & Cleantech Startups
+  - Ember Global Electricity Data
+complexity: medium
+audience:
+  - technical
+  - policymaker
+  - executive
+  - media
+visual_styles:
+  - editorial
+  - data-journalism
+  - minimal
+color_approach: categorical
+libraries:
+  - d3
+  - plotly
+  - matplotlib
+  - flourish
+effectiveness_rating: null
+source_examples: []
+has_screenshot: false
+has_code_template: false
 tags:
   - chart-type/temporal
   - data-type/time-series
@@ -16,9 +47,6 @@ tags:
   - theme/energy-markets
   - theme/climate
   - theme/net-zero
-category: Temporal
-complexity: intermediate
-best_audience: analysts, policymakers, energy strategists, technology forecasters
 ---
 
 # S-Curve Growth Chart
